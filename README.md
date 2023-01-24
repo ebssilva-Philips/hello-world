@@ -1,4 +1,4 @@
-# hello-world
+# hello-world (olá mundo)
 Repositório criado para o treinamento GitHub.
 # Eduardo Brandt
 Meio de estudo feito através da documentação disponibilizada pelo GitHub.
